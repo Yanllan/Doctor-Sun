@@ -6,7 +6,7 @@
 @misc{2024Doctor-Sun,
     title={Doctor Sun: A Bilingual multimodal Large Language Model for Biomedical AI},
     author={Ziyao Shao},
-    howpublished = {\url{[https://github.com/InternLM/xtuner](https://github.com/Yanllan/Doctor-Sun)}},
+    howpublished = {\url{https://github.com/Yanllan/Doctor-Sun}},
     year={2024}
 }
 ```
